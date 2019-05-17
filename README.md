@@ -22,7 +22,7 @@ Neste vídeo de Pandas eu demonstro como abrir arquivos em Excel usando o read_e
 
 Neste vídeo eu demonstro como selecionar dados diretamente do SQL Server e sobre os possíveis erros que podem ocorrer graças aos problemas com a conversão de alguns tipos de dados.
 
-### [Pandas em Português (Aula 4) - Selecionando dados - Parte 1](https://www.youtube.com/watch?v=qKQujkvMF_Y)
+### [Pandas em Português (Aula 4) - Selecionando dados - Parte 1 - 19/05/2019 12:00](https://www.youtube.com/watch?v=qKQujkvMF_Y)
 
 Nesta vídeo aula do curso de Pandas em português eu começo explicando como selecionar dados através de listas e da notação de pontos.
 

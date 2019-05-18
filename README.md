@@ -3,7 +3,7 @@
 Olar, personas! Mais um curso para vocês. Agora vou falar sobre Pandas, a biblioteca de python para seleção e tratamento de dados.
 
 
-## Vídeos (ainda está em branco. é o primeiro commit. hahahaha)
+## Vídeos
 
 
 ### [Pandas em Português (Aula 0) - Introdução](https://www.youtube.com/watch?v=eQGEWo1vsKU)
@@ -26,3 +26,12 @@ Neste vídeo eu demonstro como selecionar dados diretamente do SQL Server e sobr
 
 Nesta vídeo aula do curso de Pandas em português eu começo explicando como selecionar dados através de listas e da notação de pontos.
 
+### [Pandas em Português (Aula 5) - Usando loc e iloc para selecionar os dados - 19/05/2019 17:00](https://www.youtube.com/watch?v=02LxjqYtvfQ)
+
+Nesta vídeo aula de pandas em português eu falo sobre como usar o loc e o iloc e sobre a importância do comando para quando começarmos a manipular os dados do dataframe.
+
+Sim, esse vídeo é a Parte 2 de "Como selecionar os dados". Hahahahaha
+
+### [Pandas em Português (Aula 6) - Ordenando dados usando o sort_values - 20/05/2019 12:00](https://www.youtube.com/watch?v=nM79d7rg96c)
+
+Nesta vídeo aula do curso de Pandas em Português eu explico como usar o sort_values, tanto para uma coluna, quanto para várias. Ah, também explico sobre como usar o inplace. Sim, farei uma aula só disso.

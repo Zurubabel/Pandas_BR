@@ -35,3 +35,9 @@ Sim, esse vídeo é a Parte 2 de "Como selecionar os dados". Hahahahaha
 ### [Pandas em Português (Aula 6) - Ordenando dados usando o sort_values - 20/05/2019 12:00](https://www.youtube.com/watch?v=nM79d7rg96c)
 
 Nesta vídeo aula do curso de Pandas em Português eu explico como usar o sort_values, tanto para uma coluna, quanto para várias. Ah, também explico sobre como usar o inplace. Sim, farei uma aula só disso.
+
+### [Pandas em Português (Aula 7) - Usando Filter para selecionar colunas - 20/05/2019 17:00](https://www.youtube.com/watch?v=l_OFrpvRFv8)
+
+Nesta vídeo aula do curso de pandas em português eu falo como usar o filter para selecionar colunas no seu dataframe. Voltarei ao filter quando entrar na parte de índices.
+
+Ah, galera. Eu estou gravando de dia, então sons como minha cachorra latindo e minha esposa espirrando são normais. Hahahahaha

@@ -41,3 +41,9 @@ Nesta vídeo aula do curso de Pandas em Português eu explico como usar o sort_v
 Nesta vídeo aula do curso de pandas em português eu falo como usar o filter para selecionar colunas no seu dataframe. Voltarei ao filter quando entrar na parte de índices.
 
 Ah, galera. Eu estou gravando de dia, então sons como minha cachorra latindo e minha esposa espirrando são normais. Hahahahaha
+
+
+### [Pandas em Português (Aula 8) - Usando e entendendo operadores e vetores lógicos - 21/05/2019 12:00](https://youtu.be/R3voaEmKfi0)
+
+Nesta vídeo aula do curso de Pandas em português eu explico sobre os operadores lógicos e como o pandas realiza operações em seu dataframe.
+

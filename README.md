@@ -50,3 +50,7 @@ Nesta vídeo aula do curso de Curso de Pandas - Python eu explico sobre os opera
 
 Nesta vídeo aula do curso de Pandas - Python eu falo sobre como usar o comando isin e demonstro como o uso do Pandas é parecido com o uso do SQL Server
 
+### [Curso de Python - Pandas (Aula 10) - Usando groupby e funções descritivas 23/05/2019 12:00](https://youtu.be/N1r_NhQV2d8)
+
+Nesta vídeo aula do curso de pandas python eu demonstro como usar group by e funções descritivas e também crio um exemplo de como usar filtros no groupby.
+

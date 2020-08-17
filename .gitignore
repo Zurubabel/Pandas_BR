@@ -2,3 +2,7 @@
 venv/*
 */.cache/*
 */.ipynb_checkpoints/*
+*/*/.ipynb_checkpoints/*
+*/*/*/.ipynb_checkpoints/*
+*/*/*/*/.ipynb_checkpoints/*
+*.vscode/*

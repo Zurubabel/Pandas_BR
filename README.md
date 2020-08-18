@@ -60,6 +60,11 @@ Nesta vídeo aula do curso de pandas do Zurubabel eu ensino como renomear as col
 
 Nesta vídeo aula do curso de pandas do Zurubabel eu explico como funciona a parte de indexação e os atributos de um dataframe. Atributos = colunas
 
+
+### [Curso de Pandas - Python (Aula 2.2) - Usando seletor loc e iloc - 28/08/2020 18:00](https://youtu.be/69uageyNjh8)
+
+Nesta vídeo aula do curso de pandas do Zurubabel eu explico como funcionam os seletores loc e iloc.
+
 ## Vídeos antigos
 
 ### [Curso de Pandas - Python (Aula 0.0) - Introdução](https://www.youtube.com/watch?v=eQGEWo1vsKU)

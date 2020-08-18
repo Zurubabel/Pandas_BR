@@ -16,6 +16,8 @@ Nesta vídeo aula do Curso de Pandas eu explico como mudar a pasta raiz do Jupyt
 
 É bem simples: abra o prompt de comando do Jupyter, vá até a pasta que você quer e execute o comando: jupyter notebook
 
+## Parte 1 - Intodução a estrutura de dados
+
 ### [Curso de Pandas - Python (Aula 1.1) - O que é o pandas - 17/08/2020 18:00](https://youtu.be/aikYohHcbLk)
 
 Nesta vídeo aula do curso de Pandas do Zurubabel eu explico um pouco mais sobre o que é o pandas e porque aprender a usá-lo.
@@ -36,10 +38,27 @@ Nesta vídeo aula do curso de Pandas do Zurubabel eu falo sobre mais algumas fun
 
 Nesta vídeo aula do curso de Pandas do Zurubabel eu começo explicando o Que é um DataFrame e algumas características de alguns construtores.
 
+### [Curso de Pandas - Python (Aula 1.6) - DataFrame - Parte 2 - 24/08/2020 18:00](https://youtu.be/ZfXiC-20Ur0)
+
+Nesta vídeo aula de pandas do Zurubabel eu falo sobre operações de seleção e operações de remoção de colunas no dataframe.
 
 ### [Curso de Pandas - Python (Aula 1.7) - DataFrame (e um pouco de apply e applymap) - Parte 3 - 25/08/2020 18:00](https://youtu.be/ij8-1HfoDPE)
 
 Nesta vídeo aula do curso de pandas eu falo sobre como adicionar e remover colunas e também adianto um pouco as aulas e demonstro como fazer um apply e um applymap para tratar algumas strings.
+
+### [Curso de Pandas - Python (Aula 1.8) - Renomeando colunas usando rename - 26/08/2020 18:00](https://youtu.be/U_nOQgHM0HM)
+
+Nesta vídeo aula do curso de Pandas do Zurubabel eu ensino como renomear as colunas usando a função rename.
+
+### [Curso de Pandas - Python (Aula 1.9) - Renomeando colunas usando columns - 26/08/2020 18:30](https://youtu.be/PKgiUuxf2Rs)
+
+Nesta vídeo aula do curso de pandas do Zurubabel eu ensino como renomear as colunas usando o atributo columns e também ensino como fazer um pequeno tratamento das strings usando list comprehension
+
+## Parte 2 - Indexação e Seleção
+
+#### [Curso de Pandas - Python (Aula 2.1) - Indexação e atributos - 27/08/2020 18:00](https://youtu.be/WQ1oQQRyHi8)
+
+Nesta vídeo aula do curso de pandas do Zurubabel eu explico como funciona a parte de indexação e os atributos de um dataframe. Atributos = colunas
 
 ## Vídeos antigos
 

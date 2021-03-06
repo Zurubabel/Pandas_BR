@@ -60,11 +60,11 @@ Nesta vídeo aula do Curso de Pandas eu demonstro como adicionar colunas no Data
 
 Dica: é um problema de sintaxe
 
-### [Curso de Pandas Python (Aula 1.11) - Adicionando Colunas no DataFrame - Parte 2](https://youtu.be/5Fjh1TofoMQ)
+### [Curso de Pandas Python (Aula 1.11) (08/03/2021 17:00) - Adicionando Colunas no DataFrame - Parte 2](https://youtu.be/5Fjh1TofoMQ)
 
 Nesta vídeo aula do Curso de Pandas eu demonstro como adicionar colunas no DataFrame usando a função assign e outras formas
 
-### [Curso de Pandas Python (Aula 1.12) - Usando assign e lambda](https://youtu.be/H3Ok66_Ys3A)
+### [Curso de Pandas Python (Aula 1.12) (09/03/2021 17:00) - Usando assign e lambda](https://youtu.be/H3Ok66_Ys3A)
 
 Nesta vídeo aula do Curso de pandas eu ensino como usar lambda no assign. Também ensino como criar uma pequena função para somar dois valores do dataframe.
 
@@ -83,11 +83,11 @@ Nesta vídeo aula do curso de pandas do Zurubabel eu explico como funcionam os s
 
 Nesta vídeo aula do curso de Pandas eu explico sobre seleção e filtros booleanos, que nada mais são que uma series com valores booleanos que usamos para selecionar certos dados no dataframe.
 
-### [Curso de Pandas Python (Aula 2.4) - Seletores head, loc e sample](https://youtu.be/5b1VJByqFGM)
+### [Curso de Pandas Python (Aula 2.4) (10/03/2021 17:00) - Seletores head, loc e sample](https://youtu.be/5b1VJByqFGM)
 
 ## Parte 3 - Arquivos e Conexões
 
-### [Curso de Pandas Python (Aula 3.1) - Como abrir arquivos em outras pasta (Parte 1)](https://youtu.be/5y2ocT2MPFE)
+### [Curso de Pandas Python (Aula 3.1) (11/03/2021 17:00) - Como abrir arquivos em outras pasta (Parte 1)](https://youtu.be/5y2ocT2MPFE)
 
 Nesta vídeo aula do curso de Pandas eu ensino (um pouco) o que é um endereçamento relativo e absoluto, como usar o os e o pathlib e acessar outras pastas no Python
 

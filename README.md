@@ -54,9 +54,23 @@ Nesta vídeo aula do curso de Pandas do Zurubabel eu ensino como renomear as col
 
 Nesta vídeo aula do curso de pandas do Zurubabel eu ensino como renomear as colunas usando o atributo columns e também ensino como fazer um pequeno tratamento das strings usando list comprehension
 
+### [Curso de Pandas Python (Aula 1.10) - Adicionando Colunas no DataFrame - Parte 1](https://youtu.be/q5PBBo1lflY)
+
+Nesta vídeo aula do Curso de Pandas eu demonstro como adicionar colunas no DataFrame de deixo uma bucha para vocês resolverem.
+
+Dica: é um problema de sintaxe
+
+### [Curso de Pandas Python (Aula 1.11) - Adicionando Colunas no DataFrame - Parte 2](https://youtu.be/5Fjh1TofoMQ)
+
+Nesta vídeo aula do Curso de Pandas eu demonstro como adicionar colunas no DataFrame usando a função assign e outras formas
+
+### [Curso de Pandas Python (Aula 1.12) - Usando assign e lambda](https://youtu.be/H3Ok66_Ys3A)
+
+Nesta vídeo aula do Curso de pandas eu ensino como usar lambda no assign. Também ensino como criar uma pequena função para somar dois valores do dataframe.
+
 ## Parte 2 - Indexação e Seleção
 
-#### [Curso de Pandas - Python (Aula 2.1) - Indexação e atributos - 27/08/2020 18:00](https://youtu.be/WQ1oQQRyHi8)
+### [Curso de Pandas - Python (Aula 2.1) - Indexação e atributos - 27/08/2020 18:00](https://youtu.be/WQ1oQQRyHi8)
 
 Nesta vídeo aula do curso de pandas do Zurubabel eu explico como funciona a parte de indexação e os atributos de um dataframe. Atributos = colunas
 
@@ -64,6 +78,18 @@ Nesta vídeo aula do curso de pandas do Zurubabel eu explico como funciona a par
 ### [Curso de Pandas - Python (Aula 2.2) - Usando seletor loc e iloc - 28/08/2020 18:00](https://youtu.be/69uageyNjh8)
 
 Nesta vídeo aula do curso de pandas do Zurubabel eu explico como funcionam os seletores loc e iloc.
+
+### [Curso de Pandas - Python (Aula 2.3) - Seleção e filtros booleanos](https://youtu.be/JZd83mW36Mo)
+
+Nesta vídeo aula do curso de Pandas eu explico sobre seleção e filtros booleanos, que nada mais são que uma series com valores booleanos que usamos para selecionar certos dados no dataframe.
+
+### [Curso de Pandas Python (Aula 2.4) - Seletores head, loc e sample](https://youtu.be/5b1VJByqFGM)
+
+## Parte 3 - Arquivos e Conexões
+
+### [Curso de Pandas Python (Aula 3.1) - Como abrir arquivos em outras pasta (Parte 1)](https://youtu.be/5y2ocT2MPFE)
+
+Nesta vídeo aula do curso de Pandas eu ensino (um pouco) o que é um endereçamento relativo e absoluto, como usar o os e o pathlib e acessar outras pastas no Python
 
 ## Vídeos antigos
 

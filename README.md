@@ -91,6 +91,26 @@ Nesta vídeo aula do curso de Pandas eu explico sobre seleção e filtros boolea
 
 Nesta vídeo aula do curso de Pandas eu ensino (um pouco) o que é um endereçamento relativo e absoluto, como usar o os e o pathlib e acessar outras pastas no Python
 
+### [Curso de Pandas Python (Aula 3.2) - Entendendo sobre endereçamento - Parte 2 (11/03/2021)](Curso de Pandas Python (Aula 3.2) - Entendendo sobre endereçamento - Parte 2)
+
+Nesta vídeo aula de Pandas, biblioteca do Python, eu demonstro como usar o sys.path e como ele é importante para abrir outros arquivos.
+
+### [Curso de Pandas Python (Aula 3.3) Abrindo e criando arquivos CSV e Excel (15/03/2021)](https://youtu.be/Bqja_JLoy_w)
+
+Nesta vídeo aula do curso de Pandas Python eu demonstro como abrir arquivos CSV e Excel usando o read_csv, to_csv, read_excel e to_excel
+
+### [Curso de Pandas Python (Aula 4.1) - Primeira análise de dados (16/03/2021)](https://youtu.be/fTa6QbTkTrE)
+
+Neste primeiro vídeo da parte quatro, ao qual iniciaremos a análise de dados, eu demonstro algumas funções do pandas para termos ideia das características da base de dado que estaremos trabalhando.
+
+### [Curso de Pandas Python (Aula 4.2) - Criando um dicionário de dados (17/03/2021)](https://youtu.be/2QW4x5YHxiQ)
+
+Nesta vídeo aula do curso de Pandas eu demonstro como criar um dicionário de dados e qual sua importância na análise de dados. 
+
+### [Curso de Pandas Python (Aula 4.3) - Otimizando o uso da memória no Data Frame (18/03/2021)](https://youtu.be/9KX-uoeM34Y)
+
+Nesta vídeo aula de Pandas eu demonstro como otimizar um pouco o uso da memória do Data Frame
+
 ## Vídeos antigos
 
 ### [Curso de Pandas - Python (Aula 0.0) - Introdução](https://www.youtube.com/watch?v=eQGEWo1vsKU)

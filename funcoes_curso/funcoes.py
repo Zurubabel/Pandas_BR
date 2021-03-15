@@ -17,7 +17,7 @@ def importar_base(nome_arquivo):
 
     p = Path(os.getcwd())
     pasta_bases = str(p.parent.parent) + "\\bases\\"
-    return pd.read_csv(pasta_bases + "alugueis\\" + nome_arquivo)
+    return pd.read_csv(pasta_bases + "alugueis\\" + nome_arquivo, index_col=0)
 
 
     

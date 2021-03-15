@@ -91,7 +91,7 @@ Nesta vídeo aula do curso de Pandas eu explico sobre seleção e filtros boolea
 
 Nesta vídeo aula do curso de Pandas eu ensino (um pouco) o que é um endereçamento relativo e absoluto, como usar o os e o pathlib e acessar outras pastas no Python
 
-### [Curso de Pandas Python (Aula 3.2) - Entendendo sobre endereçamento - Parte 2 (11/03/2021)](Curso de Pandas Python (Aula 3.2) - Entendendo sobre endereçamento - Parte 2)
+### [Curso de Pandas Python (Aula 3.2) - Entendendo sobre endereçamento - Parte 2 (11/03/2021)](https://youtu.be/Ms-G9a6eU3k)
 
 Nesta vídeo aula de Pandas, biblioteca do Python, eu demonstro como usar o sys.path e como ele é importante para abrir outros arquivos.
 

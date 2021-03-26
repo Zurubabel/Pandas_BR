@@ -99,6 +99,8 @@ Nesta vídeo aula de Pandas, biblioteca do Python, eu demonstro como usar o sys.
 
 Nesta vídeo aula do curso de Pandas Python eu demonstro como abrir arquivos CSV e Excel usando o read_csv, to_csv, read_excel e to_excel
 
+## Parte 4 - Iniciando a análise de dados
+
 ### [Curso de Pandas Python (Aula 4.1) - Primeira análise de dados (16/03/2021)](https://youtu.be/fTa6QbTkTrE)
 
 Neste primeiro vídeo da parte quatro, ao qual iniciaremos a análise de dados, eu demonstro algumas funções do pandas para termos ideia das características da base de dado que estaremos trabalhando.
@@ -110,6 +112,24 @@ Nesta vídeo aula do curso de Pandas eu demonstro como criar um dicionário de d
 ### [Curso de Pandas Python (Aula 4.3) - Otimizando o uso da memória no Data Frame (18/03/2021)](https://youtu.be/9KX-uoeM34Y)
 
 Nesta vídeo aula de Pandas eu demonstro como otimizar um pouco o uso da memória do Data Frame
+
+## Parte 5 - Análise exploratória de dados com Pandas
+
+### [Curso de Pandas Python (Aula 5.1) Iniciando a Análise Exploratória de Dados](https://youtu.be/tav_7sI7n98)
+
+Nesta vídeo aula de Pandas eu inicio a primeira análise exploratória de dados na base de aluguéis que já vínhamos mexendo desde o começo
+
+### [Curso de Pandas Python (Aula 5.2) Continuando as análises](https://youtu.be/4vkHHFeM8ug)
+
+Nesta vídeo aula de pandas, ao qual esqueço que estou trabalhando em um "Notebook", eu continuo com as análises dos dados e inicio a substituição do valor que está transformando a coluna "floor" em object
+
+### [Curso de Pandas Python (Aula 5.3) - Corrigindo a coluna floor](https://youtu.be/2Ys0vXDuVTI)
+
+Nesta vídeo aula do curso de pandas nós iremos corrigir a coluna floor, deixando-a na forma numérica.
+
+### [Curso de Pandas Python (Aula 5.4) - Corrigindo os valores monetários da base usando applymap](https://youtu.be/E0-utH_JPGw)
+
+Nesta vídeo aula do curso de pandas, python, eu demonstro como usar o applymap e o porquê de separar os dados antes de fazer alterações.
 
 ## Vídeos antigos
 
